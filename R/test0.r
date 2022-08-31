@@ -8,7 +8,6 @@ print(paste("one", NULL))
 print(paste(NA, "two"))
 print(paste("multi-line", "multi-line"))
 
-
 h <- c(1, 2, 3, 4, 5, 6)
 M <- c("A", "B", "C", "D", "E", "F")
 barplot(h,
